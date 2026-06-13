@@ -1,0 +1,71 @@
+{
+  "fonte": "Portaria n.º 204/2024 e Decreto-Lei n.º 85-B/2025",
+  "ultima_atualizacao": "2025-06-01",
+  "moeda": "EUR",
+  "taxas": [
+    {
+      "tipo_titulo": "Autorização de Residência (1.ª concessão) — Art. 88 (Trabalho subordinado)",
+      "artigo": "88",
+      "taxa_emolumento": 83.00,
+      "taxa_cartao": 72.00,
+      "total": 155.00,
+      "notas": "Valores referentes ao processamento do pedido e emissão do cartão de residência."
+    },
+    {
+      "tipo_titulo": "Autorização de Residência (1.ª concessão) — Art. 89 (Trabalho independente)",
+      "artigo": "89",
+      "taxa_emolumento": 83.00,
+      "taxa_cartao": 72.00,
+      "total": 155.00,
+      "notas": "Valores referentes ao processamento do pedido e emissão do cartão de residência."
+    },
+    {
+      "tipo_titulo": "Autorização de Residência (1.ª concessão) — Art. 90 (Estudo)",
+      "artigo": "90",
+      "taxa_emolumento": 83.00,
+      "taxa_cartao": 72.00,
+      "total": 155.00,
+      "notas": "Desconto de 50% para estudantes com bolsa comprovada."
+    },
+    {
+      "tipo_titulo": "Autorização de Residência (1.ª concessão) — Art. 98 (Reagrupamento Familiar)",
+      "artigo": "98",
+      "taxa_emolumento": 83.00,
+      "taxa_cartao": 72.00,
+      "total": 155.00,
+      "notas": "Menores de 18 anos têm isenção da taxa de emolumento."
+    },
+    {
+      "tipo_titulo": "Renovação de Autorização de Residência",
+      "artigo": "todos",
+      "taxa_emolumento": 53.00,
+      "taxa_cartao": 72.00,
+      "total": 125.00,
+      "notas": "Taxa reduzida para renovações. Válida para todos os artigos."
+    },
+    {
+      "tipo_titulo": "2.ª via do cartão de residência (extravio/roubo)",
+      "artigo": "todos",
+      "taxa_emolumento": 0.00,
+      "taxa_cartao": 72.00,
+      "total": 72.00,
+      "notas": "Requer participação policial em caso de roubo ou declaração de extravio."
+    }
+  ],
+  "multas": [
+    {
+      "situacao": "Permanência ilegal (após expiração do visto/AR sem renovação em curso)",
+      "valor_minimo": 500.00,
+      "valor_maximo": 2500.00,
+      "base_legal": "Art. 182.º da Lei n.º 23/2007",
+      "notas": "Pode resultar em processo de afastamento. Regularizar antes da expiração."
+    },
+    {
+      "situacao": "Não comunicação de alteração de morada no prazo de 30 dias",
+      "valor_minimo": 250.00,
+      "valor_maximo": 1000.00,
+      "base_legal": "Art. 45.º da Lei n.º 23/2007",
+      "notas": "Atualizar morada obrigatoriamente na AIMA e no Cartão de Cidadão se aplicável."
+    }
+  ]
+}

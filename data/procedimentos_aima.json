@@ -1,0 +1,118 @@
+{
+  "fonte": "Lei n.º 23/2007, de 4 de julho (atualizada), e Decreto-Lei n.º 85-B/2025",
+  "ultima_atualizacao": "2025-06-01",
+  "artigos": [
+    {
+      "artigo": "88",
+      "titulo": "Autorização de Residência para Exercício de Atividade Profissional Subordinada",
+      "descricao": "Para cidadãos que se deslocam a Portugal com contrato de trabalho ou promessa de contrato.",
+      "portal": "Portal de Serviços AIMA",
+      "url_portal": "https://aima.gov.pt",
+      "elegibilidade": [
+        "Visto de residência válido para trabalho subordinado",
+        "Contrato de trabalho ou promessa de contrato de trabalho",
+        "Meios de subsistência suficientes",
+        "Alojamento adequado"
+      ],
+      "documentos_obrigatorios": [
+        "Passaporte válido",
+        "Visto de residência para trabalho",
+        "Contrato de trabalho ou promessa de contrato (assinado pelo empregador)",
+        "Declaração da Segurança Social ou recibo de vencimento",
+        "Comprovativo de alojamento (contrato de arrendamento ou declaração de hospedagem)",
+        "NIF (Número de Identificação Fiscal)",
+        "Fotografia tipo passe"
+      ],
+      "prazo_resposta_aima_dias": 90,
+      "renovacao": {
+        "artigo_renovacao": "88",
+        "antecedencia_minima_dias": 30,
+        "portal": "Portal de Renovações AIMA"
+      }
+    },
+    {
+      "artigo": "89",
+      "titulo": "Autorização de Residência para Exercício de Atividade Profissional Independente",
+      "descricao": "Para trabalhadores independentes, freelancers, ou empreendedores.",
+      "portal": "Portal de Serviços AIMA",
+      "url_portal": "https://aima.gov.pt",
+      "elegibilidade": [
+        "Visto de residência válido para atividade independente",
+        "Comprovativo de atividade registada nas Finanças",
+        "Meios de subsistência (rendimento comprovável)"
+      ],
+      "documentos_obrigatorios": [
+        "Passaporte válido",
+        "Visto de residência para atividade independente",
+        "Declaração de início de atividade nas Finanças (Categoria B)",
+        "Recibos verdes ou extrato bancário dos últimos 3 meses",
+        "Comprovativo de alojamento",
+        "NIF",
+        "NIF do representante fiscal (se aplicável)",
+        "Fotografia tipo passe"
+      ],
+      "prazo_resposta_aima_dias": 90,
+      "renovacao": {
+        "artigo_renovacao": "89",
+        "antecedencia_minima_dias": 30,
+        "portal": "Portal de Renovações AIMA"
+      }
+    },
+    {
+      "artigo": "98",
+      "titulo": "Autorização de Residência para Reagrupamento Familiar",
+      "descricao": "Para familiares de titular de autorização de residência válida em Portugal.",
+      "portal": "Portal de Serviços AIMA",
+      "url_portal": "https://aima.gov.pt",
+      "elegibilidade": [
+        "Requerente principal com AR válida há pelo menos 1 ano",
+        "Relação familiar comprovada (cônjuge, filhos menores, ascendentes dependentes)",
+        "Meios de subsistência suficientes para toda a família"
+      ],
+      "documentos_obrigatorios": [
+        "Passaporte válido do familiar",
+        "Visto de residência para reagrupamento familiar",
+        "Certidão de nascimento ou casamento (traduzida e apostilada)",
+        "AR válida do requerente principal",
+        "Comprovativo de alojamento adequado para toda a família",
+        "Declaração de meios de subsistência do requerente principal",
+        "NIF do familiar",
+        "Fotografia tipo passe"
+      ],
+      "prazo_resposta_aima_dias": 90,
+      "renovacao": {
+        "artigo_renovacao": "98",
+        "antecedencia_minima_dias": 30,
+        "portal": "Portal de Renovações AIMA"
+      }
+    },
+    {
+      "artigo": "90",
+      "titulo": "Autorização de Residência para Estudo",
+      "descricao": "Para estudantes inscritos em estabelecimento de ensino reconhecido em Portugal.",
+      "portal": "Portal de Serviços AIMA",
+      "url_portal": "https://aima.gov.pt",
+      "elegibilidade": [
+        "Visto de residência para estudo",
+        "Inscrição em instituição de ensino reconhecida pelo Ministério da Educação",
+        "Meios de subsistência ou bolsa de estudo"
+      ],
+      "documentos_obrigatorios": [
+        "Passaporte válido",
+        "Visto de residência para estudo",
+        "Comprovativo de inscrição ou matrícula na instituição de ensino",
+        "Comprovativo de meios de subsistência ou bolsa",
+        "Seguro de saúde válido em Portugal",
+        "Comprovativo de alojamento",
+        "NIF",
+        "Fotografia tipo passe"
+      ],
+      "prazo_resposta_aima_dias": 90,
+      "renovacao": {
+        "artigo_renovacao": "90",
+        "antecedencia_minima_dias": 30,
+        "portal": "Portal de Renovações AIMA"
+      }
+    }
+  ]
+}

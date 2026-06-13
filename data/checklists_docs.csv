@@ -1,0 +1,40 @@
+processo,documento,obrigatoriedade,notas
+Art. 88 - Trabalho Subordinado,Passaporte válido,Obrigatório,Validade mínima de 6 meses após a data do pedido
+Art. 88 - Trabalho Subordinado,Visto de residência para trabalho,Obrigatório,Emitido pelo Consulado Português no país de origem
+Art. 88 - Trabalho Subordinado,Contrato de trabalho ou promessa de contrato,Obrigatório,Deve estar assinado pelo empregador e pelo trabalhador
+Art. 88 - Trabalho Subordinado,Declaração da Segurança Social,Obrigatório,Ou 3 recibos de vencimento caso já esteja a trabalhar
+Art. 88 - Trabalho Subordinado,Comprovativo de alojamento,Obrigatório,Contrato de arrendamento ou declaração de hospedagem
+Art. 88 - Trabalho Subordinado,NIF (Número de Identificação Fiscal),Obrigatório,Obtido nas Finanças ou via Portal das Finanças
+Art. 88 - Trabalho Subordinado,Fotografia tipo passe,Obrigatório,Recente (máx. 6 meses) fundo branco
+Art. 88 - Trabalho Subordinado,NISS (Número de Identificação Segurança Social),Recomendado,Obrigatório para aceder a benefícios sociais
+Art. 89 - Trabalho Independente,Passaporte válido,Obrigatório,Validade mínima de 6 meses após a data do pedido
+Art. 89 - Trabalho Independente,Visto de residência para atividade independente,Obrigatório,Emitido pelo Consulado Português no país de origem
+Art. 89 - Trabalho Independente,Declaração de início de atividade nas Finanças,Obrigatório,Registo na Categoria B (trabalho independente)
+Art. 89 - Trabalho Independente,Recibos verdes (mín. 3 meses) ou extrato bancário,Obrigatório,Para comprovar meios de subsistência
+Art. 89 - Trabalho Independente,Comprovativo de alojamento,Obrigatório,Contrato de arrendamento ou declaração de hospedagem
+Art. 89 - Trabalho Independente,NIF,Obrigatório,Obtido nas Finanças
+Art. 89 - Trabalho Independente,NIF do representante fiscal,Condicional,Obrigatório se o requerente não for residente fiscal em Portugal
+Art. 89 - Trabalho Independente,Fotografia tipo passe,Obrigatório,Recente (máx. 6 meses) fundo branco
+Art. 90 - Estudo,Passaporte válido,Obrigatório,Validade mínima de 6 meses após a data do pedido
+Art. 90 - Estudo,Visto de residência para estudo,Obrigatório,Emitido pelo Consulado Português no país de origem
+Art. 90 - Estudo,Comprovativo de inscrição ou matrícula,Obrigatório,Emitido pela instituição de ensino reconhecida
+Art. 90 - Estudo,Comprovativo de meios de subsistência ou bolsa,Obrigatório,Extrato bancário ou carta de concessão de bolsa
+Art. 90 - Estudo,Seguro de saúde válido em Portugal,Obrigatório,Pode ser substituído pelo cartão europeu de saúde (temporário)
+Art. 90 - Estudo,Comprovativo de alojamento,Obrigatório,Contrato de arrendamento ou declaração da instituição de ensino
+Art. 90 - Estudo,NIF,Obrigatório,Obtido nas Finanças
+Art. 90 - Estudo,Fotografia tipo passe,Obrigatório,Recente (máx. 6 meses) fundo branco
+Art. 98 - Reagrupamento Familiar,Passaporte válido do familiar,Obrigatório,Validade mínima de 6 meses após a data do pedido
+Art. 98 - Reagrupamento Familiar,Visto de residência para reagrupamento familiar,Obrigatório,Emitido pelo Consulado Português no país de origem do familiar
+Art. 98 - Reagrupamento Familiar,Certidão de nascimento ou casamento,Obrigatório,Traduzida por tradutor juramentado e com apostila da Haia
+Art. 98 - Reagrupamento Familiar,AR válida do requerente principal (mín. 1 ano),Obrigatório,O titular deve ter AR válida há pelo menos 12 meses
+Art. 98 - Reagrupamento Familiar,Comprovativo de alojamento adequado,Obrigatório,Deve acomodar toda a família
+Art. 98 - Reagrupamento Familiar,Declaração de meios de subsistência do titular,Obrigatório,Rendimento suficiente para sustentar a família
+Art. 98 - Reagrupamento Familiar,NIF do familiar,Obrigatório,Obtido nas Finanças
+Art. 98 - Reagrupamento Familiar,Fotografia tipo passe,Obrigatório,Recente (máx. 6 meses) fundo branco
+Art. 98 - Reagrupamento Familiar,Comprovativo de tutela (para menores),Condicional,Obrigatório se o menor vier sem ambos os progenitores
+Renovação (todos os artigos),Passaporte válido,Obrigatório,Deve estar válido no momento do pedido
+Renovação (todos os artigos),AR a renovar (original),Obrigatório,Mesmo que esteja expirada (dentro da janela legal)
+Renovação (todos os artigos),Comprovativo da atividade atual,Obrigatório,Recibo de vencimento / recibos verdes / matrícula atualizada
+Renovação (todos os artigos),Comprovativo de alojamento atualizado,Obrigatório,Se diferente do registado anteriormente
+Renovação (todos os artigos),NIF,Obrigatório,Confirmar que está ativo nas Finanças
+Renovação (todos os artigos),Fotografia tipo passe,Obrigatório,Recente (máx. 6 meses) fundo branco

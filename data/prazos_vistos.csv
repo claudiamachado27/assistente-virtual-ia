@@ -1,0 +1,6 @@
+tipo_titulo,data_expiracao_original,nova_data_validade_legal,base_legal,portal_renovacao,janela_renovacao_inicio,janela_renovacao_fim,notas
+AR - todos os artigos (emitida antes de 2023-12-31),2023-01-01,2025-12-31,Decreto-Lei n.º 85-B/2025,Portal de Renovações AIMA,2025-01-01,2025-12-31,Prorrogação automática para títulos expirados até 31/12/2023. Portador não precisa de nova AR para trabalhar/residir durante este período.
+AR - todos os artigos (emitida antes de 2024-06-30),2024-06-30,2026-06-30,Decreto-Lei n.º 85-B/2025,Portal de Renovações AIMA,2025-07-01,2026-06-30,Prorrogação de 12 meses para títulos expirados entre 01/01/2024 e 30/06/2024.
+Visto de Estada Temporária (trabalho),N/A,N/A,Lei n.º 23/2007,Portal de Serviços AIMA,N/A,N/A,Não é prorrogável. Deve converter para AR antes da expiração do visto.
+AR válida (dentro do prazo),N/A,N/A,N/A,Portal de Renovações AIMA,30 dias antes da expiração,Data de expiração,Renovar com antecedência mínima de 30 dias. Após este prazo pode haver coima.
+AR expirada (fora da janela legal),N/A,N/A,Lei n.º 23/2007 Art. 182,Portal de Serviços AIMA - Regularização,N/A,N/A,Situação irregular. Risco de coima (500€ a 2500€) e processo de afastamento. Contactar advogado de imigração urgentemente.
