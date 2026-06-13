@@ -69,6 +69,11 @@ streamlit run src/app.py
 A aplicação deverá abrir automaticamente no teu navegador (tipicamente em http://localhost:8501).
 
 
+
+
+----------------------------------------------------------------
+
+
 Direitos de Autor (C) Claudia Machado [2026]. Todos os direitos reservados.
 
 Este código é fornecido estritamente para fins educativos e uso pessoal.
