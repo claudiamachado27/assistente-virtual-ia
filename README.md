@@ -26,6 +26,7 @@ assistente-virtual-ia/
 │   └── taxas_aima.json
 │
 ├── docs/                    # Documentação do Agente e Projeto
+│   ├── assets/              # Imagens e ficheiros PDF de suporte
 │   ├── 01-documentacao-agente.md
 │   ├── 02-base-conhecimento.md
 │   ├── 03-prompts.md

@@ -50,7 +50,7 @@ O impacto social é direto: menos processos indeferidos por erro, menos imigrant
 
 ### 5. Apresentação em PDF
 
-![Apresentação em PDF ](assets/descomplica_AIMA.pdf)
+[Apresentação em PDF ](assets/descomplica_AIMA.pdf)
 
 ### 6. Link do Vídeo
 
