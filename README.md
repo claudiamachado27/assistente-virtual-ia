@@ -77,4 +77,4 @@ A aplicação deverá abrir automaticamente no teu navegador (tipicamente em htt
 **Direitos de Autor (C) Claudia Machado [2026]. Todos os direitos reservados.**
 
 Este código é fornecido estritamente para fins educativos e uso pessoal.
-Não é permitida venda ou qualquer tipo de utilização comercial deste software, no todo ou em parte, sem a autorização prévia por escrito do autor.
+Não é permitida venda ou qualquer tipo de utilização comercial deste software, no todo ou em parte, sem a autorização prévia por escrito da autora.
