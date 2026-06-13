@@ -66,3 +66,5 @@ Ainda com o ambiente virtual ativado, executa o Streamlit:
 streamlit run src/app.py
 ```
 A aplicação deverá abrir automaticamente no teu navegador (tipicamente em http://localhost:8501).
+
+Desenvolvido por Claudia Machado
