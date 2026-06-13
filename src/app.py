@@ -143,7 +143,7 @@ def main():
     )
 
     st.title("🇵🇹 Descomplica AIMA")
-    st.caption("O teu guia prático para processos de residência em Portugal · Powered by Ollama")
+    st.caption("O teu guia prático para processos de residência em Portugal · Powered by Claudia Machado")
     st.divider()
 
     # Carregar dados
@@ -170,6 +170,15 @@ def main():
         if st.button("🗑️ Limpar conversa"):
             st.session_state.mensagens = []
             st.rerun()
+        st.markdown(
+            """
+            <div style="position: fixed; bottom: 20px;">
+                <p style="font-size: 0.8rem; color: #888;">Desenvolvido por <a href="https://claudiamachado.me" target="_blank" style="color: #3d9dfe; text-decoration: none;">Claudia Machado</a></p>
+            </div>
+            """,
+            unsafe_allow_html=True
+        )
+
 
     # --- Inicializar histórico de mensagens ---
     if "mensagens" not in st.session_state:

@@ -1,22 +1,17 @@
-# Pitch (3 minutos)
-
-> [!TIP]
-> Podes usar alguns slides para apoiar o teu Pitch e mostrar a solução na prática.
+# Pitch
 
 ---
 
-## Roteiro Sugerido
+## Roteiro
 
-### 1. O Problema (30 seg)
-> Qual dor do utilizador resolve?
+### 1. O Problema 
 
 Portugal recebe milhares de imigrantes por ano — mas o sistema de imigração é um labirinto.
 Com a extinção do SEF e a criação da AIMA, os portais mudaram, os prazos foram alterados por Decreto-Lei e a informação está dispersa por dezenas de fontes diferentes. O resultado? Imigrantes que submetem documentos errados, perdem agendamentos e, em alguns casos, entram em situação irregular sem perceber que o seu título tinha sido prorrogado automaticamente.
 
 ---
 
-### 2. A Solução (1 min)
-> Como o agente resolve este problema?
+### 2. A Solução 
 
 O **Descomplica AIMA** é um assistente de IA local que funciona como um "tuga experiente" sempre disponível. Em vez de obrigar o utilizador a ler PDFs de legislação ou a depender de fóruns desatualizados, o agente:
 
@@ -30,21 +25,7 @@ A solução corre localmente com **Ollama + Streamlit**, sem enviar dados pessoa
 
 ---
 
-### 3. Demonstração (1 min)
-> O que será mostrado na gravação de ecrã:
-
-1. Abertura da interface Streamlit no browser (`localhost:8501`);
-2. Utilizador escreve: *"Vim trabalhar numa empresa em Lisboa. Tenho visto mas não sei o que fazer a seguir."*;
-3. O agente faz triagem e identifica o Artigo 88.º;
-4. Resposta com checklist completa de documentos, portal correto e taxa de 155€;
-5. Utilizador pergunta: *"A minha AR expirou em março de 2024. Estou ilegal?"*;
-6. O agente valida com o DL 85-B/2025 e explica a janela de prorrogação;
-7. Utilizador testa um edge case: *"Qual o Golden Visa?"* — o agente admite a limitação sem alucinar.
-
----
-
-### 4. Diferencial e Impacto (30 seg)
-> Por que esta solução é inovadora e qual o impacto?
+### 3. Diferencial e Impacto
 
 A maioria dos chatbots de imigração baseia-se em informações genéricas ou em RAG sobre documentos desatualizados. O **Descomplica AIMA** diferencia-se por:
 
@@ -55,19 +36,22 @@ A maioria dos chatbots de imigração baseia-se em informações genéricas ou e
 O impacto social é direto: menos processos indeferidos por erro, menos imigrantes em situação irregular por desinformação e mais autonomia para quem mais precisa de clareza num momento de vida já de si complexo.
 
 ---
+### 4. Tela de Demonstração
 
-## Checklist do Pitch
+![Tela inicial do Descomplica AIMA](assets/tela-assistente-virtual-ia.png)
 
-- `[ ]` Duração máxima de 3 minutos
-- `[ ]` Problema claramente definido
-- `[ ]` Solução demonstrada na prática
-- `[ ]` Diferencial explicado
-- `[ ]` Áudio e vídeo com boa qualidade
+
+1. Abertura da interface Streamlit no browser (`localhost:8501`);
+2. Utilizador escreve: *"como tiro visto de estudo"*;
+3. O agente faz triagem e identifica o Artigo 90.º;
+4. Resposta com checklist completa de documentos, portal correto e taxa de 155€.
 
 ---
 
-## Link do Vídeo
+### 5. Apresentação em PDF
 
-> Cola aqui o link do teu pitch (YouTube, Loom, Google Drive, etc.)
+![Apresentação em PDF ](assets/descomplica_AIMA.pdf)
 
-[Link do vídeo]
+### 6. Link do Vídeo
+
+[\[Link do vídeo\]](https://app.screencastify.com/watch/aI6yPbX4cf4NXxeHsnNw)
