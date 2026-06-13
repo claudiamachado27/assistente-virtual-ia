@@ -1,6 +1,6 @@
 # 🇵🇹 Descomplica AIMA
 
-Um assistente virtual alimentado por Inteligência Artificial (Ollama / Llama 3.1) desenhado para ajudar os cidadãos estrangeiros a navegar pelos processos de autorização de residência da AIMA em Portugal (Artigo 88, 89, 90 e 98).
+Um assistente virtual alimentado por Inteligência Artificial (Ollama / Llama 3.1) desenhado para ajudar os cidadãos estrangeiros a navegar pelos processos de autorização de residência da Agência para a Integração, Migrações e Asilo (AIMA) em Portugal (Artigo 88, 89, 90 e 98).
 
 ## 🚀 Funcionalidades
 - **Triagem Inteligente**: O agente é capaz de direcionar o utilizador para o artigo correto.
@@ -68,4 +68,8 @@ streamlit run src/app.py
 ```
 A aplicação deverá abrir automaticamente no teu navegador (tipicamente em http://localhost:8501).
 
-Desenvolvido por Claudia Machado
+
+Direitos de Autor (C) Claudia Machado [2026]. Todos os direitos reservados.
+
+Este código é fornecido estritamente para fins educativos e uso pessoal.
+Não é permitida a modificação, redistribuição, venda ou qualquer tipo de utilização comercial deste software, no todo ou em parte, sem a autorização prévia por escrito do autor.
